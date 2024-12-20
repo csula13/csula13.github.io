@@ -1,12 +1,17 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Teen Reproductive Health Information Seeking and Sharing Post-Roe
+  role: Conference on Human Factors in Computing Systems (CHI)
+  year: 2024;
+  url: https://dl.acm.org/doi/full/10.1145/3613904.3641934
+  # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+
 - organization: TEST
   role: Volunteer
   year: 2001 &mdash; 2010
   url: https://www.peta.org/
   summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
 
 - organization: Yale Amnesty International
   role: Communications coordinator
