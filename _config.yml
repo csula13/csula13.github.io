@@ -27,7 +27,7 @@ resume_contact_telephone:       "csula (at) gmu (dot) edu"
 display_header_telephone:       "true"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a second-year graduate student in Information Technology, focusing on Human-Computer Interaction (HCI). I received my Bachelor of Science in Computer Science, with a minor in Criminal Justice. I study the security and privacy concerns of vulnerable and at-risk populations. My research interests are HCI, Human-AI relationships, misinformation, digital literacy, and online safety. </p>"
+resume_header_intro: "<p>I am a second-year graduate student in Information Technology, focusing on Human-Computer Interaction (HCI). I received my Bachelor of Science in Computer Science, with a minor in Criminal Justice. I study the security and privacy concerns of different populations. My research interests are HCI, Human-AI relationships, digital literacy, and online safety. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
